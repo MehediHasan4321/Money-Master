@@ -5,8 +5,9 @@ header{
 }
 
 .content{
-    width: 80%;
+    width: 40%;
     height: auto;
     margin: 0 auto;
+    background-color: rgb(236, 235, 232);
     
 }
